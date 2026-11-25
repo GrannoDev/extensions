@@ -158,6 +158,10 @@
 	path = extensions/angular-snippets
 	url = https://github.com/hudson-newey/angular-snippets-for-zed.git
 
+[submodule "extensions/angular-template-lsp"]
+	path = extensions/angular-template-lsp
+	url = https://github.com/GrannoDev/zed-angular.git
+
 [submodule "extensions/ansible"]
 	path = extensions/ansible
 	url = https://github.com/kartikvashistha/zed-ansible

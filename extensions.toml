@@ -163,6 +163,10 @@ version = "0.0.7"
 submodule = "extensions/angular-snippets"
 version = "21.1.0"
 
+[angular-template-lsp]
+submodule = "extensions/angular-template-lsp"
+version = "0.0.1"
+
 [ansible]
 submodule = "extensions/ansible"
 version = "1.0.0"
